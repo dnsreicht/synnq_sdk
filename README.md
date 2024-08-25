@@ -21,7 +21,7 @@ A TypeScript SDK for interacting with the Synnq platform. This SDK provides easy
 Install the SDK using npm:
 
 ```bash
-npm install synnq_sdk
+npm install synnq-sdk
 ```
 
 ## Usage
